@@ -1,0 +1,27 @@
+.header img{
+  height: 100px;
+   
+}
+.header{
+    text-align: center;}
+
+    .nav ul{
+        display: flex;
+        list-style-type: none;
+        justify-content: center;
+    background-color: black;
+    line-height: 20px;
+    
+    }
+    .nav ul li{
+        padding: 20px 0;
+    }
+    .nav ul li a{
+        text-decoration: none;
+        padding: 5px;
+        margin-left: 20px;
+        color: white;
+    }
+    li a:hover{
+        background-color: gray;
+    }
